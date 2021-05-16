@@ -5,7 +5,6 @@ import java.util.*;
 
 /**
  * A generic vacuum agent. 
- * @author Jill Zimmerman -- jill.zimmerman@goucher.edu
  *
  */
 public abstract class VacuumAgent extends Agent
