@@ -4,7 +4,6 @@ import java.awt.*;
 
 /**
  * A wall object inside a GridEnvironment.
- * @author Jill Zimmerman -- jill.zimmerman@goucher.edu
  *
  */
 
