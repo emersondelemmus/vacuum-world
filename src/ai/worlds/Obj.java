@@ -6,7 +6,6 @@ import java.util.Vector;
 
 /**
  * A generic object that is contained in an environment.
- * @author Jill Zimmerman -- jill.zimmerman@goucher.edu
  *
  */
 
