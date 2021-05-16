@@ -4,7 +4,6 @@ import java.awt.*;
 
 /**
  * A location within the environment.
- * @author Jill Zimmerman -- jill.zimmerman@goucher.edu
  *
  */
 
