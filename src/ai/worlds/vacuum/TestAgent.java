@@ -1,6 +1,7 @@
 package ai.worlds.vacuum;
 
 
+
 public class TestAgent extends VacuumAgent {
 
 	public int getAction() {		
