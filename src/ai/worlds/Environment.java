@@ -3,7 +3,6 @@ package ai.worlds;
  * A generic environment.
  * All environments must implement getPercept, performanceMeasure, 
  * snapshot, termination, and legalAction methods
- * @author Jill Zimmerman -- jill.zimmerman@goucher.edu
  *
  */
 
