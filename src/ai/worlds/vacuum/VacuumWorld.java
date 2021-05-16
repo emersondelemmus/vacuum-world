@@ -6,7 +6,6 @@ import ai.worlds.*;
 import javax.swing.*;
 /**
  * A Vacuum environment. 
- * @author Jill Zimmerman -- jill.zimmerman@goucher.edu
  *
  */
 public class VacuumWorld extends GridEnvironment
