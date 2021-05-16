@@ -8,10 +8,7 @@ import java.util.HashMap;
 
 import ai.worlds.WorldCreatePanel;
 import ai.worlds.vacuum.*;
-/**
- * @author Jill Zimmerman -- jill.zimmerman@goucher.edu
- *
- */
+
 
 
 public class AI
