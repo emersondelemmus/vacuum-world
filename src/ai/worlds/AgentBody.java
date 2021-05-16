@@ -4,7 +4,6 @@ import java.awt.*;
 import javax.swing.plaf.metal.MetalLookAndFeel;
 /**
  * An agent's body.
- * @author Jill Zimmerman -- jill.zimmerman@goucher.edu
  *
  */
 public class AgentBody extends Obj
