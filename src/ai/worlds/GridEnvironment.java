@@ -11,7 +11,6 @@ import ai.worlds.vacuum.*;
 //import ai.worlds.wumpus.*;
 /**
  * An environment with a two-dimensional grid layout occupied by objects.
- * @author Jill Zimmerman -- jill.zimmerman@goucher.edu
  *
  */
 public abstract class GridEnvironment extends Environment implements Cloneable
