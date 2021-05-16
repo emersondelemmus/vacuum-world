@@ -5,7 +5,6 @@ import ai.worlds.*;
 
 /**
  * Dirt that appears in the Vacuum world.
- * @author Jill Zimmerman -- jill.zimmerman@goucher.edu
  *
  */
 
