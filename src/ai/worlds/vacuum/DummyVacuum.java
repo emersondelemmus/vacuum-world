@@ -1,5 +1,6 @@
 package ai.worlds.vacuum;
 
+
 public class DummyVacuum extends VacuumAgent {
 
 	public int getAction() {		
