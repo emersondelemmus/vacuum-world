@@ -2,7 +2,6 @@ package ai.worlds;
 /**
  * A generic agent.
  * All agents must implement determineAction and takeAction methods
- * @author Jill Zimmerman -- jill.zimmerman@goucher.edu
  *
  */
 
