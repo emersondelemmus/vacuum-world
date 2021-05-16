@@ -14,7 +14,6 @@ import ai.worlds.vacuum.*;
 
 /**
  * A Panel containing the information for world creation.
- * @author Jill Zimmerman -- jill.zimmerman@goucher.edu
  *
  */
 
