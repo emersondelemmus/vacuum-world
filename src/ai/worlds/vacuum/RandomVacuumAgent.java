@@ -1,7 +1,6 @@
 package ai.worlds.vacuum;
 /**
  * A vacuum agent that simply chooses actions at random
- * @author Jill Zimmerman -- jill.zimmerman@goucher.edu
  *
  */
 
